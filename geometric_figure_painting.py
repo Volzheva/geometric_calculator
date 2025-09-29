@@ -1,4 +1,4 @@
-from pythonProject.geometric_calculator import *
+from geometric_calculator import *
 from math import acos, degrees
 import turtle as t
 t.shape('classic')
