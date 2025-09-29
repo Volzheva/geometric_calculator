@@ -1,4 +1,4 @@
-from pythonProject.geometric_initial_shape import *
+from geometric_initial_shape import *
 from math import pi, sqrt, sin, radians
 
 
